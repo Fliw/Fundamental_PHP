@@ -9,7 +9,6 @@ while($x<=10){
     echo $x."<br>"; 
     //operasi penambahan x agar si x bisa sampe 10, kan kalo kurang dari 10 ttp harus x++
     $x++;
-   
-    
+    //silahkan berimprovisasi 
 }
 ?>
